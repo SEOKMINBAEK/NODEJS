@@ -1,0 +1,18 @@
+{
+  "name": "chapter15_split_route",
+  "version": "0.0.1",
+  "description": "Router 객체로 라우팅 분리하기",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "seokmin",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
