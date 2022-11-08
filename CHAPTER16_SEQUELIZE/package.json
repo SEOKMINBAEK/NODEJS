@@ -1,0 +1,21 @@
+{
+  "name": "chapter16_sequelize",
+  "version": "0.0.1",
+  "description": "시퀄라이즈 사용하기",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "seokmin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.0.0-rc.1",
+    "sequelize": "^6.25.4",
+    "sequelize-cli": "^6.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
